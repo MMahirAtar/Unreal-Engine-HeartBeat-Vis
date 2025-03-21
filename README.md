@@ -5,6 +5,7 @@
 ### 🔹 Project Overview:
 
 This project captures real-time heartbeat data using an ESP32 and a pulse sensor, processes the data through Python, and visualizes it in Unreal Engine. It demonstrates how real-world biometric data can be integrated into interactive digital environments.
+![Heartbeat Visualization](Media/HearthBeat.mp4)
 
 ---
 
